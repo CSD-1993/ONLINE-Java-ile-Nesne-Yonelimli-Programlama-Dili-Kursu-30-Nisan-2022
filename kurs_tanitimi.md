@@ -1,6 +1,6 @@
 # Online Java ile Nesne Yönelimli Programlama Kursu
 
-+ Bu kurs [__C ve Sistem Programcıları Derneği__](www.csystem.org) tarafından düzenlenmektedir. 
++ Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
 
 + Bu kurs katılımcıların öncelikle _Java_ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
 
