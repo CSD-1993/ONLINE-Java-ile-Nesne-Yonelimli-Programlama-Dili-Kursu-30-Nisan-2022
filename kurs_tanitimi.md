@@ -72,8 +72,7 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 __Java ile Nesne Yönelimli Programlama__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _github ve dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-+ Kursun toplam ücreti __5.100 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __4.600__ TL'dir. Kurs ücretini __2__ taksitte ödeyebilirsiniz. __(Peşin ödemelerde %10 indirim uygulanmaktadır)__
-
++ Kursun toplam ücreti __5.100 TL__'dir. Öğrenci olanlar için kurs fiyatı (öğrencilik durumunu belgelemeleri kaydıyla) __4.600__ TL'dir. Kurs ücretini __2__ taksitte ödeyebilirsiniz. 
 ## Eğitim Programına Kayıt
 __[Katılım için önce ön kayıt yaptırmalısınız](   https://us02web.zoom.us/meeting/register/tZYlcuuuqjspHtDnly_nR4rFYGxQqgrjBAcI)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
