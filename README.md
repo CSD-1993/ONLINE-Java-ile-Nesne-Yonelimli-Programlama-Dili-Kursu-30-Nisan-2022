@@ -1,7 +1,7 @@
-# ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-16-Nisan-2022
+# ONLINE-Java-ile-Nesne-Yonelimli-Programlama-Dili-Kursu-30-Nisan-2022
 
 Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
-+ Kurs __16 Nisan 2022 Cumartesi__ günü başlayacaktır.
++ Kurs __30 Nisan 2022 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __160__ saattir. Dersler __Cumartesi - Pazar__ günleri __17:00 - 21:00__ saatleri arasında yapılacaktır.
